@@ -64,8 +64,8 @@
         }
     </style>
 
-    <link rel="stylesheet" href="{{ asset('css/vendor.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/vendor.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
 </head>
 
 <body>
@@ -101,8 +101,8 @@
 
 
     <!-- all js -->
-    <script src="{{ asset('js/vendor.js') }}"></script>
-    <script src="{{ asset('js/main.js') }}"></script>
+    <script src="{{ asset('assets/js/vendor.js') }}"></script>
+    <script src="{{ asset('assets/js/main.js') }}"></script>
 </div>
 </body>
 
