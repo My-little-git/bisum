@@ -303,7 +303,7 @@
                         </div>
                     </div>
                     <div class="view-all text-center" data-aos="fade-up" data-aos-duration="700">
-                        <a class="btn-primary" href="faq.html">SEE MORE</a>
+                        <a class="btn-primary" href="{{ route('faq') }}">SEE MORE</a>
                     </div>
                 </div>
             </div>

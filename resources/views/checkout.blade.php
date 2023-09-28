@@ -15,11 +15,11 @@
 
                         <div class="checkout-progress overflow-hidden">
                             <ol class="checkout-bar px-0">
-                                <li class="progress-step step-done"><a href="cart.html">Cart</a></li>
-                                <li class="progress-step step-active"><a href="checkout.html">Your Details</a></li>
-                                <li class="progress-step step-todo"><a href="checkout.html">Shipping</a></li>
-                                <li class="progress-step step-todo"><a href="checkout.html">Payment</a></li>
-                                <li class="progress-step step-todo"><a href="checkout.html">Review</a></li>
+                                <li class="progress-step step-done"><a href="{{ route('cart') }}">Cart</a></li>
+                                <li class="progress-step step-active"><a href="{{ route('checkout') }}">Your Details</a></li>
+                                <li class="progress-step step-todo"><a href="{{ route('checkout') }}">Shipping</a></li>
+                                <li class="progress-step step-todo"><a href="{{ route('checkout') }}">Payment</a></li>
+                                <li class="progress-step step-todo"><a href="{{ route('checkout') }}">Review</a></li>
                             </ol>
                         </div>
 
@@ -129,8 +129,8 @@
                         </div>
                         <div class="shipping-address-area billing-area">
                             <div class="minicart-btn-area d-flex align-items-center justify-content-between flex-wrap">
-                                <a href="cart.html" class="checkout-page-btn minicart-btn btn-secondary">BACK TO CART</a>
-                                <a href="checkout.html" class="checkout-page-btn minicart-btn btn-primary">PROCEED TO SHIPPING</a>
+                                <a href="{{ route('cart') }}" class="checkout-page-btn minicart-btn btn-secondary">BACK TO CART</a>
+                                <a href="{{ route('checkout') }}" class="checkout-page-btn minicart-btn btn-primary">PROCEED TO SHIPPING</a>
                             </div>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
 
                                     <div class="mt-4 checkout-promo-code">
                                         <input class="input-promo-code" type="text" placeholder="Promo code" />
-                                        <a href="checkout.html" class="btn-apply-code position-relative btn-secondary text-uppercase mt-3">
+                                        <a href="{{ route('checkout') }}" class="btn-apply-code position-relative btn-secondary text-uppercase mt-3">
                                             Apply Promo Code
                                         </a>
                                     </div>

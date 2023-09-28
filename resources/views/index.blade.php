@@ -35,7 +35,7 @@
                                 Look for your inspiration here
                             </p>
                             <a class="btn-primary slide-btn animate__animated animate__fadeInUp"
-                               href="collection-left-sidebar.html"
+                               href="{{ route('collection') }}"
                                data-animation="animate__animated animate__fadeInUp">SHOP
                                 NOW</a>
                         </div>
@@ -57,7 +57,7 @@
                                 Look for your inspiration here
                             </p>
                             <a class="btn-primary slide-btn animate__animated animate__fadeInUp"
-                               href="collection-left-sidebar.html"
+                               href="{{ route('collection') }}"
                                data-animation="animate__animated animate__fadeInUp">SHOP
                                 NOW</a>
                         </div>
@@ -79,7 +79,7 @@
                                 Look for your inspiration here
                             </p>
                             <a class="btn-primary slide-btn animate__animated animate__fadeInUp"
-                               href="collection-left-sidebar.html"
+                               href="{{ route('collection') }}"
                                data-animation="animate__animated animate__fadeInUp">SHOP
                                 NOW</a>
                         </div>
@@ -144,7 +144,7 @@
         <div class="collection-tab-inner mt-0">
             <div class="container">
                 <div class="grid-container-2">
-                    <a class="grid-item grid-item-1 position-relative rounded mt-0 d-flex" href="collection-left-sidebar.html"
+                    <a class="grid-item grid-item-1 position-relative rounded mt-0 d-flex" href="{{ route('collection') }}"
                        data-aos="fade-right" data-aos-duration="700">
                         <img class="banner-img rounded" src="assets/img/banner/f1.jpg" alt="banner-1">
                         <div class="content-absolute content-slide">
@@ -159,7 +159,7 @@
                             </div>
                         </div>
                     </a>
-                    <a class="grid-item grid-item-2 position-relative rounded mt-0 d-flex" href="collection-left-sidebar.html"
+                    <a class="grid-item grid-item-2 position-relative rounded mt-0 d-flex" href="{{ route('collection') }}"
                        data-aos="fade-right" data-aos-duration="700">
                         <img class="banner-img rounded" src="assets/img/banner/f3.jpg" alt="banner-1">
                         <div class="content-absolute content-slide">
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                     </a>
-                    <a class="grid-item grid-item-3 position-relative rounded mt-0 d-flex" href="collection-left-sidebar.html"
+                    <a class="grid-item grid-item-3 position-relative rounded mt-0 d-flex" href="{{ route('collection') }}"
                        data-aos="fade-left" data-aos-duration="700">
                         <img class="banner-img rounded" src="assets/img/banner/f2.jpg" alt="banner-1">
                         <div class="content-absolute content-slide">
@@ -206,7 +206,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/9.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/1.jpg"
@@ -256,7 +256,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">best wood furniture</a>
+                                    <a href="{{ route('collection') }}">best wood furniture</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -268,7 +268,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/10.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/2.jpg"
@@ -314,7 +314,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                    <a href="{{ route('collection') }}">Vita Lounge Chair</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -326,7 +326,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/11.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/3.jpg"
@@ -376,7 +376,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">Sarno Dining Chair</a>
+                                    <a href="{{ route('collection') }}">Sarno Dining Chair</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -388,7 +388,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/14.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/4.jpg"
@@ -434,7 +434,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">bisum tea table</a>
+                                    <a href="{{ route('collection') }}">bisum tea table</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -446,7 +446,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/15.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/5.jpg"
@@ -492,7 +492,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">Eliot Reversible tool</a>
+                                    <a href="{{ route('collection') }}">Eliot Reversible tool</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -504,7 +504,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/16.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/6.jpg"
@@ -550,7 +550,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">Vita Lounge wardrobe</a>
+                                    <a href="{{ route('collection') }}">Vita Lounge wardrobe</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -562,7 +562,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/17.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/7.jpg"
@@ -608,7 +608,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">Sarno Dining Chair</a>
+                                    <a href="{{ route('collection') }}">Sarno Dining Chair</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -620,7 +620,7 @@
                     <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                         <div class="product-card">
                             <div class="product-card-img">
-                                <a class="hover-switch" href="collection-left-sidebar.html">
+                                <a class="hover-switch" href="{{ route('collection') }}">
                                     <img class="secondary-img" src="assets/img/products/furniture/19.jpg"
                                          alt="product-img">
                                     <img class="primary-img" src="assets/img/products/furniture/8.jpg"
@@ -666,7 +666,7 @@
                                     </li>
                                 </ul>
                                 <h3 class="product-card-title">
-                                    <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                    <a href="{{ route('collection') }}">Vita Lounge Chair</a>
                                 </h3>
                                 <div class="product-card-price">
                                     <span class="card-price-regular">$1529</span>
@@ -699,7 +699,7 @@
                             </div>
                             <div class="scattered-details">
                                 <h2 class="scattered-heading primary-color">Home Decor</h2>
-                                <a href="collection-left-sidebar.html"
+                                <a href="{{ route('collection') }}"
                                    class="text_12 link-underline d-block primary-color mt-2">
                                     SHOP COLLECTION
                                 </a>
@@ -938,7 +938,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus.
                         </p>
                         <a class="btn-primary single-banner-btn animate__animated animate__fadeInUp"
-                           href="collection-left-sidebar.html"
+                           href="{{ route('collection') }}"
                            data-animation="animate__animated animate__fadeInUp" data-aos="fade-up"
                            data-aos-duration="700">
                             DISCOVER NOW
@@ -981,7 +981,7 @@
 
                         <div class="article-slick-item" data-aos="fade-up" data-aos-duration="700">
                             <div class="article-card bg-transparent p-0 shadow-none">
-                                <a class="article-card-img-wrapper" href="article.html">
+                                <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                     <img src="assets/img/blog/furniture-1.jpg" alt="img"
                                          class="article-card-img rounded">
 
@@ -1012,7 +1012,7 @@
                                             </span>
                                 </p>
                                 <h2 class="article-card-heading heading_18">
-                                    <a class="heading_18" href="article.html">
+                                    <a class="heading_18" href="{{ route('article') }}">
                                         Pure is the most furniture.
                                     </a>
                                 </h2>
@@ -1020,7 +1020,7 @@
                         </div>
                         <div class="article-slick-item" data-aos="fade-up" data-aos-duration="700">
                             <div class="article-card bg-transparent p-0 shadow-none">
-                                <a class="article-card-img-wrapper" href="article.html">
+                                <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                     <img src="assets/img/blog/furniture-2.jpg" alt="img"
                                          class="article-card-img rounded">
                                     <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -1050,7 +1050,7 @@
                                             </span>
                                 </p>
                                 <h2 class="article-card-heading heading_18">
-                                    <a class="heading_18" href="article.html">
+                                    <a class="heading_18" href="{{ route('article') }}">
                                         Minimalism in your room.
                                     </a>
                                 </h2>
@@ -1058,7 +1058,7 @@
                         </div>
                         <div class="article-slick-item" data-aos="fade-up" data-aos-duration="700">
                             <div class="article-card bg-transparent p-0 shadow-none">
-                                <a class="article-card-img-wrapper" href="article.html">
+                                <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                     <img src="assets/img/blog/furniture-3.jpg" alt="img"
                                          class="article-card-img rounded">
                                     <span class="article-tag article-tag-absolute rounded">Kitchen</span>
@@ -1088,7 +1088,7 @@
                                             </span>
                                 </p>
                                 <h2 class="article-card-heading heading_18">
-                                    <a class="heading_18" href="article.html">
+                                    <a class="heading_18" href="{{ route('article') }}">
                                         Build up your kitchen.
                                     </a>
                                 </h2>
@@ -1096,7 +1096,7 @@
                         </div>
                         <div class="article-slick-item" data-aos="fade-up" data-aos-duration="700">
                             <div class="article-card bg-transparent p-0 shadow-none">
-                                <a class="article-card-img-wrapper" href="article.html">
+                                <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                     <img src="assets/img/blog/furniture-4.jpg" alt="img"
                                          class="article-card-img rounded">
                                     <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -1126,7 +1126,7 @@
                                             </span>
                                 </p>
                                 <h2 class="article-card-heading heading_18">
-                                    <a class="heading_18" href="article.html">
+                                    <a class="heading_18" href="{{ route('article') }}">
                                         Minimalism in your room.
                                     </a>
                                 </h2>

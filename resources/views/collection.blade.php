@@ -57,7 +57,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img" src="assets/img/products/furniture/9.jpg"
                                                  alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/1.jpg"
@@ -112,7 +112,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">best wood furniture</a>
+                                            <a href="{{ route('product') }}">best wood furniture</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -125,7 +125,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/10.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/2.jpg"
@@ -176,7 +176,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                            <a href="{{ route('product') }}">Vita Lounge Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -189,7 +189,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/11.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/3.jpg"
@@ -244,7 +244,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Sarno Dining Chair</a>
+                                            <a href="{{ route('product') }}">Sarno Dining Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -257,7 +257,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/14.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/4.jpg"
@@ -308,7 +308,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">bisum tea table</a>
+                                            <a href="{{ route('product') }}">bisum tea table</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -321,7 +321,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/15.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/5.jpg"
@@ -372,7 +372,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Eliot Reversible tool</a>
+                                            <a href="{{ route('product') }}">Eliot Reversible tool</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -385,7 +385,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/16.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/6.jpg"
@@ -436,7 +436,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Vita Lounge wardrobe</a>
+                                            <a href="{{ route('product') }}">Vita Lounge wardrobe</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -449,7 +449,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/17.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/7.jpg"
@@ -500,7 +500,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Sarno Dining Chair</a>
+                                            <a href="{{ route('product') }}">Sarno Dining Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -513,7 +513,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/19.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/8.jpg"
@@ -564,7 +564,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                            <a href="{{ route('product') }}">Vita Lounge Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -577,7 +577,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/29.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/9.jpg"
@@ -628,7 +628,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                            <a href="{{ route('product') }}">Vita Lounge Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -641,7 +641,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/21.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/27.jpg"
@@ -692,7 +692,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Sarno Dining Chair</a>
+                                            <a href="{{ route('product') }}">Sarno Dining Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -705,7 +705,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/22.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/28.jpg"
@@ -756,7 +756,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                            <a href="{{ route('product') }}">Vita Lounge Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -769,7 +769,7 @@
                             <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-duration="700">
                                 <div class="product-card">
                                     <div class="product-card-img">
-                                        <a class="hover-switch" href="collection-left-sidebar.html">
+                                        <a class="hover-switch" href="{{ route('product') }}">
                                             <img class="secondary-img"
                                                  src="assets/img/products/furniture/29.jpg" alt="product-img">
                                             <img class="primary-img" src="assets/img/products/furniture/23.jpg"
@@ -820,7 +820,7 @@
                                             </li>
                                         </ul>
                                         <h3 class="product-card-title">
-                                            <a href="collection-left-sidebar.html">Vita Lounge Chair</a>
+                                            <a href="{{ route('product') }}">Vita Lounge Chair</a>
                                         </h3>
                                         <div class="product-card-price">
                                             <span class="card-price-regular">$1529</span>
@@ -1304,7 +1304,7 @@
                                     </div>
                                     <div class="related-product-info">
                                         <h2 class="related-heading heading_18">
-                                            <a href="product.html">Tea Table</a>
+                                            <a href="{{ route('product') }}">Tea Table</a>
                                         </h2>
                                         <div
                                             class="related-review-icon product-icon-star d-flex align-items-center">
@@ -1324,7 +1324,7 @@
                                     </div>
                                     <div class="related-product-info">
                                         <h2 class="related-heading heading_18">
-                                            <a href="product.html">Comfy Sofa</a>
+                                            <a href="{{ route('product') }}">Comfy Sofa</a>
                                         </h2>
                                         <div
                                             class="related-review-icon product-icon-star d-flex align-items-center">
@@ -1344,7 +1344,7 @@
                                     </div>
                                     <div class="related-product-info">
                                         <h2 class="related-heading heading_18">
-                                            <a href="product.html">Cusion Chair</a>
+                                            <a href="{{ route('product') }}">Cusion Chair</a>
                                         </h2>
                                         <div
                                             class="related-review-icon product-icon-star d-flex align-items-center">
@@ -1360,7 +1360,7 @@
                             </div>
                         </div>
                         <div class="filter-widget">
-                            <a href="product.html">
+                            <a href="{{ route('product') }}">
                                 <img class="rounded" src="assets/img/banner/collection.jpg" alt="img">
                             </a>
                         </div>

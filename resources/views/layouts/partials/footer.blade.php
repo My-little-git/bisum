@@ -17,11 +17,11 @@
                                         </span>
                             </h4>
                             <ul class="footer-menu list-unstyled mb-0 d-md-block">
-                                <li class="footer-menu-item"><a href="about-us.html">About us</a></li>
-                                <li class="footer-menu-item"><a href="about-us.html">Press center</a></li>
-                                <li class="footer-menu-item"><a href="blog.html">Our magazine</a></li>
-                                <li class="footer-menu-item"><a href="about-us.html">Our group</a></li>
-                                <li class="footer-menu-item"><a href="about-us.html">Work with us</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">About us</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Press center</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('blog') }}">Our magazine</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Our group</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Work with us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -38,11 +38,11 @@
                                         </span>
                             </h4>
                             <ul class="footer-menu list-unstyled mb-0 d-md-block">
-                                <li class="footer-menu-item"><a href="about-us.html">Brand catalog</a></li>
-                                <li class="footer-menu-item"><a href="about-us.html">Discount codes</a></li>
-                                <li class="footer-menu-item"><a href="collection-left-sidebar.html">Furniture</a></li>
-                                <li class="footer-menu-item"><a href="collection-left-sidebar.html">Sofa</a></li>
-                                <li class="footer-menu-item"><a href="collection-left-sidebar.html">Chair</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Brand catalog</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Discount codes</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('collection') }}">Furniture</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('collection') }}">Sofa</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('collection') }}">Chair</a></li>
                             </ul>
                         </div>
                     </div>
@@ -59,10 +59,10 @@
                                         </span>
                             </h4>
                             <ul class="footer-menu list-unstyled mb-0 d-md-block">
-                                <li class="footer-menu-item"><a href="faq.html">FAQ</a></li>
-                                <li class="footer-menu-item"><a href="about-us.html">Privacy policy</a></li>
-                                <li class="footer-menu-item"><a href="about-us.html">Support</a></li>
-                                <li class="footer-menu-item"><a href="contact.html">Contact</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('faq') }}">FAQ</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Privacy policy</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('about-us') }}">Support</a></li>
+                                <li class="footer-menu-item"><a href="{{ route('contact') }}">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -153,8 +153,8 @@
             <div
                 class="footer-bottom-inner d-flex flex-wrap justify-content-md-between justify-content-center align-items-center">
                 <ul class="footer-bottom-menu list-unstyled d-flex flex-wrap align-items-center mb-0">
-                    <li class="footer-menu-item"><a href="about-us.html">Privacy policy</a></li>
-                    <li class="footer-menu-item"><a href="about-us.html">Terms & Conditions</a></li>
+                    <li class="footer-menu-item"><a href="{{ route('about-us') }}">Privacy policy</a></li>
+                    <li class="footer-menu-item"><a href="{{ route('about-us') }}">Terms & Conditions</a></li>
                 </ul>
                 <p class="copyright footer-text">©<span class="current-year"></span> Spree Themes.</p>
             </div>

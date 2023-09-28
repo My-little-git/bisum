@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-1.jpg" alt="img"
                                      class="article-card-img rounded">
 
@@ -41,7 +41,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Pure is the most furniture.
                                 </a>
                             </h2>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-2.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -79,7 +79,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Minimalism in your room.
                                 </a>
                             </h2>
@@ -87,7 +87,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-3.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Kitchen</span>
@@ -117,7 +117,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Build up your kitchen.
                                 </a>
                             </h2>
@@ -125,7 +125,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-4.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -155,7 +155,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Pure is the most furniture.
                                 </a>
                             </h2>
@@ -163,7 +163,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-5.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -193,7 +193,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Minimalism in your room.
                                 </a>
                             </h2>
@@ -201,7 +201,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-6.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -231,7 +231,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Build up your kitchen.
                                 </a>
                             </h2>
@@ -239,7 +239,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-7.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -269,7 +269,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Pure is the most furniture.
                                 </a>
                             </h2>
@@ -277,7 +277,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-8.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -307,7 +307,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Minimalism in your room.
                                 </a>
                             </h2>
@@ -315,7 +315,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="article-card bg-transparent p-0 shadow-none">
-                            <a class="article-card-img-wrapper" href="article.html">
+                            <a class="article-card-img-wrapper" href="{{ route('article') }}">
                                 <img src="assets/img/blog/furniture-9.jpg" alt="img"
                                      class="article-card-img rounded">
                                 <span class="article-tag article-tag-absolute rounded">Furniture</span>
@@ -345,7 +345,7 @@
                                         </span>
                             </p>
                             <h2 class="article-card-heading heading_18">
-                                <a class="heading_18" href="article.html">
+                                <a class="heading_18" href="{{ route('article') }}">
                                     Build up your kitchen.
                                 </a>
                             </h2>

@@ -229,7 +229,7 @@
                 <div class="about-banner-wrapper">
                     <div class="about-banner-content">
                         <p class="about-banner-text heading_48">Get in touch with us for your service related query</p>
-                        <a href="contact.html" class="about-banner-btn">CONTACT US</a>
+                        <a href="{{ route('contact') }}" class="about-banner-btn">CONTACT US</a>
                     </div>
                 </div>
             </div>

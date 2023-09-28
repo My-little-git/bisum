@@ -56,7 +56,7 @@
                     </li>
                     <li class="menu-list-item nav-item has-megamenu">
                         <div class="mega-menu-header">
-                            <a class="nav-link" href="collection-left-sidebar.html">
+                            <a class="nav-link" href="{{ route('collection') }}">
                                 Shop
                             </a>
                             <span class="open-submenu">
@@ -85,7 +85,7 @@
                                     <li class="menu-list-item nav-item-sub">
                                         <div class="mega-menu-header">
                                             <a class="nav-link-sub nav-text-sub megamenu-heading"
-                                               href="collection-left-sidebar.html">
+                                               href="{{ route('collection') }}">
                                                 Category Pages
                                             </a>
                                             <span class="open-submenu">
@@ -117,7 +117,7 @@
                                             <ul class="megamenu list-unstyled megamenu-container">
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="collection-left-sidebar.html">With Left
+                                                       href="{{ route('collection') }}">With Left
                                                         Sidebar</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
@@ -127,7 +127,7 @@
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="collection-left-sidebar.html">3 Column
+                                                       href="{{ route('collection') }}">3 Column
                                                         Layout</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
@@ -178,19 +178,19 @@
                                             <ul class="megamenu list-unstyled">
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Simple Product</a>
+                                                       href="{{ route('product') }}">Simple Product</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Variable Product</a>
+                                                       href="{{ route('product') }}">Variable Product</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Sale Product</a>
+                                                       href="{{ route('product') }}">Sale Product</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Featured & On Sale</a>
+                                                       href="{{ route('product') }}">Featured & On Sale</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub" href="product-2.html">Tab
@@ -238,19 +238,19 @@
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Vertical Thumb</a>
+                                                       href="{{ route('product') }}">Vertical Thumb</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Gallery Type</a>
+                                                       href="{{ route('product') }}">Gallery Type</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Product Width Layout</a>
+                                                       href="{{ route('product') }}">Product Width Layout</a>
                                                 </li>
                                                 <li class="menu-list-item nav-item-sub">
                                                     <a class="nav-link-sub nav-text-sub"
-                                                       href="product.html">Sticky Gallery</a>
+                                                       href="{{ route('product') }}">Sticky Gallery</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -258,7 +258,7 @@
                                     <li class="menu-list-item nav-item-sub">
                                         <div class="mega-menu-header">
                                             <a class="nav-link-sub nav-text-sub megamenu-heading"
-                                               href="collection-left-sidebar.html">
+                                               href="{{ route('collection') }}">
                                                 Featured Collection
                                             </a>
                                         </div>
@@ -268,11 +268,11 @@
                         </div>
                     </li>
                     <li class="menu-list-item nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
+                        <a class="nav-link" href="{{ route('blog') }}">Blog</a>
                     </li>
                     <li class="menu-list-item nav-item has-dropdown">
                         <div class="mega-menu-header">
-                            <a class="nav-link active" href="about-us.html">
+                            <a class="nav-link active" href="{{ route('about-us') }}">
                                 Pages
                             </a>
                             <span class="open-submenu">
@@ -298,37 +298,37 @@
                             </div>
                             <ul class="submenu list-unstyled">
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="about-us.html">About Us</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('about-us') }}">About Us</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="contact.html">Contact</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('contact') }}">Contact</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="faq.html">FAQ</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('faq') }}">FAQ</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
                                     <a class="nav-link-sub nav-text-sub" href="404.html">404 page</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="login.html">Login</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('login') }}">Login</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="register.html">Register</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('register') }}">Register</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="wishlist.html">Wishlist</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('wishlist') }}">Wishlist</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="cart.html">Cart</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('cart') }}">Cart</a>
                                 </li>
                                 <li class="menu-list-item nav-item-sub">
-                                    <a class="nav-link-sub nav-text-sub" href="checkout.html">Checkout</a>
+                                    <a class="nav-link-sub nav-text-sub" href="{{ route('checkout') }}">Checkout</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
                     <li class="menu-list-item nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="{{ route('contact') }}">Contact</a>
                     </li>
                 </ul>
             </nav>
@@ -348,7 +348,7 @@
                     </a>
                 </li>
                 <li class="utilty-menu-item">
-                    <a class="announcement-login announcement-text" href="login.html">
+                    <a class="announcement-login announcement-text" href="{{ route('login') }}">
                                 <span class="utilty-icon-wrapper">
                                     <svg class="icon icon-user" width="24" height="24" viewBox="0 0 10 11" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">
@@ -361,7 +361,7 @@
                     </a>
                 </li>
                 <li class="utilty-menu-item">
-                    <a class="header-action-item header-wishlist" href="wishlist.html">
+                    <a class="header-action-item header-wishlist" href="{{ route('wishlist') }}">
                                 <span class="utilty-icon-wrapper">
                                     <svg class="icon icon-wishlist" width="26" height="22" viewBox="0 0 26 22"
                                          fill="#000" xmlns="http://www.w3.org/2000/svg">
